@@ -35,7 +35,7 @@
 <b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
-<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
+<b>Hobbys:</b> Writer, Sysadmin
 </li>
 <br><br><br><br>
 </div>
